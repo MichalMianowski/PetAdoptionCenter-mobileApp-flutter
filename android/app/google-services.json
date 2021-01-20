@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1087254617237",
+    "firebase_url": "https://psnrz-app-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "psnrz-app",
+    "storage_bucket": "psnrz-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087254617237:android:f2b1ff086d97f07a8fcf9c",
+        "android_client_info": {
+          "package_name": "com.psnrz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087254617237-vbkr6iddvoo4fm1gpd0kl1no36pph8dm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAdMcHeOljho5XQGq-LllhOQzeLTB9sGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087254617237-vbkr6iddvoo4fm1gpd0kl1no36pph8dm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
